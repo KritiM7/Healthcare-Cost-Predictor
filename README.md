@@ -1,4 +1,4 @@
-# Healthcare-Cost-Predictor
+# NY Healthcare Billing & Cost Analysis (Big Data)
 
 Predicting healthcare costs is a huge challenge because the data is "noisy"—you have different hospitals, various illness severities, and hundreds of different types of treatments. I wanted to see if I could build a model that looks at over 2.1 million patient records and finds the patterns in how people are billed in New York State.
 Unlike my other projects that were about categories (like Spam vs. Not Spam), this project is about scale. I had to figure out how to pull an 800MB dataset directly into the cloud and process it without crashing the system.
